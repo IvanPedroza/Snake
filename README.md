@@ -3,7 +3,7 @@
 A classic Snake game built with the **Processing** environment, featuring a unique competitive twist.
 
 [![Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen)](#)
-![Processing](https://img.shields.io/badge/Built_with-Processing-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![PyTest](https://img.shields.io/badge/tests-PyTest-orange.svg)
 
 ## Game Overview
@@ -74,7 +74,7 @@ Contributions are welcome! Fork the repository, make your changes, and submit a 
 
 ## License
 
-[![License](https://img.shields.io/github/license/<username>/<repo>.svg)](LICENSE)
+This Snake Game in Processing is open-source and available under the [MIT License](https://github.com/IvanPedroza/Snake/blob/main/LICENSE.md). You can use, modify, and distribute it freely.
 
 ## Acknowledgments
 
